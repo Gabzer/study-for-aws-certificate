@@ -1,4 +1,5 @@
-#Study for AWS certificate
+Study for AWS certificate
+=========================
 
 _The AWS Platform_
 
@@ -11,4 +12,4 @@ _The AWS Platform_
 |    Management Tools    |      Media Services      |  Machine Learning   |
 |       Migration        |Networking & Content Delivery|  Developer Tools |
 |        Compute         |           Storage        |      Database       |
-|                         AWS Global Infrastructure                       |
+|                        |AWS Global Infrastructure |                     |
