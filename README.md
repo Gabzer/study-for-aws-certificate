@@ -105,6 +105,12 @@ _Developer Tools_
 
 -CodeCommit: Amazon repository.
 
--CodeBuild:
+-CodeBuild: compiles your code or runs tests and produces ready-to-deploy software packages.
 
-18 minutos
+-CodeDeploy: deployment services. Automates deployments of apps to two instances but can also do so in local instances.
+
+-CodePipeline: continuous delivery service, use some kind of model and visualize and automates the steps required to free up your software.
+
+-X-Ray: is used to debug and analyze your serveless application. It has order tracking in which you can actually log in and find the causes of the performance bottlenecks.
+
+-Cloud9: is a place where you can develop your code inside the AWS console so you do not even do it on your desktop but in a browser
