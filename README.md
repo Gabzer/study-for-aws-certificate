@@ -40,11 +40,11 @@ _Compute_
 
 -EC2 Container Service: manage the conteiners Dockers at scale.
 
--Elastic Beanstalk:
+-Elastic Beanstalk: is an easy-to-use service for deployment and scalability of web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go and Docker on known servers such as Apache, Nginx, Passenger and IIS.
 
 -Lambda: is the code uploaded in the cloud and you control when execute.
 
--Lightsail:
+-Lightsail: includes everything you need to quickly start your project: a virtual machine, SSD-based storage, data transfer, DNS management and a static IP.
 
 -Batch: use for the batch computing in the cloud.
 
@@ -96,7 +96,7 @@ _Networking & Content Delivery_
 
 -API Gateway: way to create your own API to talk to your other services. **Very important for the exam.**
 
--Direct Connect:
+-Direct Connect: makes it easy to establish a dedicated network connection between the local environment and AWS.
 
 
 _Developer Tools_
