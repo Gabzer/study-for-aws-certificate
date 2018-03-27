@@ -26,6 +26,7 @@ _What is an Edge Location ?_
 
 Edge Location are endpoints for AWS which are used for caching content. Typically this consists of CloudFront, Amazon's Content Delivery Network (CDN).
 
+---------------------------------------------------------------------------------
 
 **EXAM TIPS**
 
@@ -84,4 +85,26 @@ _Migration_
 
 -Snowball: way to bring large amounts of data to the AWS data center.
 
-14 minutos
+
+_Networking & Content Delivery_
+
+-VPC (Amazon Virtual Private Cloud): virtual data center. You configure firewalls, availability zones, a network side range varies, you set up a route table. **Very important for the exam.**
+
+-CloudFront: amazon content distribution network. If you think of media assets or things like video files or image files, the CloudFront allows you to access them from a nearest endpoint.
+
+-Route53: Amazon DNS service.
+
+-API Gateway: way to create your own API to talk to your other services. **Very important for the exam.**
+
+-Direct Connect:
+
+
+_Developer Tools_
+
+-CodeStar: way to collaborate with other developers who are working on a project.
+
+-CodeCommit: Amazon repository.
+
+-CodeBuild:
+
+18 minutos
