@@ -170,6 +170,31 @@ _Machine Learning_
 
 -Lex: asrtificially intelligent way of communicating with customers.
 
--Machine Learning: the difference between deep learning and machine learning is that deep learning is connected to neural networks while machine learning is still very kind of entry level for learning to be smarter. Machine Learning is the best way to describe Deep Learning. Machine Learning is basically a set of data in the AWS cloud. It will then analyze that data set and provide some results and determine whether or not it bases any data on any new data that you know or do not know. It will predict a result with uncertain Machine Learning terms.
+-Machine Learning: the difference between Deep Learning and Machine Learning is that Deep Learning is connected to neural networks while Machine Learning is still very kind of entry level for learning to be smarter. Machine Learning is the best way to describe Deep Learning. Machine Learning is basically a set of data in the AWS cloud. It will then analyze that data set and provide some results and determine whether or not it bases any data on any new data that you know or do not know. It will predict a result with uncertain Machine Learning terms.
 
--Polly:
+-Polly: takes Lex and turns it into speech.
+
+-Rekognition: make videos and images. You upload a file and it tells what's in that file.
+
+-Amazon Translate: translator.
+
+
+_Analytics_
+
+-Athena: allows you to run sequel core theories against things in your first three buckets.
+
+-EMR: for Big Data. Has a lot of different servers and hacks your data for analysis.
+
+-CloudSearch: for the AWS.
+
+-ElasticSearch Service: for the AWS.
+
+-Kinesis:
+
+-Kinesis Video Streams:
+
+-QuickSight: Amazon business intelligence tool.
+
+-Data Pipeline: way to move your data between different AWS services.
+
+-Glue: news service. Extracts and transforms data into a data transfer
